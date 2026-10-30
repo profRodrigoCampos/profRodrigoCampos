@@ -2,7 +2,7 @@
 
 Professor de Informática no **Instituto Federal de São Paulo (IFSP)**, lecionando disciplinas da área de infraestrutura de redes.
 
-[![Site](https://img.shields.io/badge/Site-profrodrigocampos.github.io-0A1A2B?style=for-the-badge&logo=githubpages&logoColor=5CE1E6)](https://profrodrigocampos.github.io)
+[![Site](https://img.shields.io/badge/Site-profrodrigocampos.github.io-0A1A2B?style=for-the-badge&logo=github&logoColor=white)](https://profrodrigocampos.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigovcampos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigovcampos/)
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-1F3B57?style=for-the-badge)](http://lattes.cnpq.br/2272863002513232)
 [![E-mail](https://img.shields.io/badge/E--mail-rodrigo.campos@ifsp.edu.br-2E7D32?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:rodrigo.campos@ifsp.edu.br)
@@ -40,10 +40,10 @@ Professor de Informática no **Instituto Federal de São Paulo (IFSP)**, leciona
 
 ## Certificações
 
-<a href="https://www.credly.com/badges/921517b0-4cfa-4ba7-aa09-9862f1adfde2"><img src="https://images.credly.com/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/linkedin_thumb_image.png" width="36" align="absmiddle" alt="CCST Networking"></a>&nbsp; Cisco Certified Support Technician Networking (CCST)<br>
-<a href="https://www.credly.com/badges/1e192cab-ab9d-4177-8f14-ce24f8d9f6d2"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/linkedin_thumb_image.png" width="36" align="absmiddle" alt="AZ-900"></a>&nbsp; Microsoft Certified: Azure Fundamentals (AZ-900)<br>
-<a href="https://www.credly.com/badges/ccc5590a-d5e8-472c-b5d0-533bf2706a17"><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/linkedin_thumb_azure-ai-fundamentals-600x600.png" width="36" align="absmiddle" alt="AI-900"></a>&nbsp; Microsoft Certified: Azure AI Fundamentals (AI-900)<br>
-<a href="https://www.credly.com/badges/69563ae3-77a5-4a46-8343-b594f3f057c8"><img src="https://images.credly.com/images/cd82123f-6dc4-4181-badb-7ab1bc6707cd/linkedin_thumb_C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-02-no-year.png" width="36" align="absmiddle" alt="Instrutor Cisco Networking Academy"></a>&nbsp; Instrutor Cisco Networking Academy: 5 anos de serviço
+<a href="https://www.credly.com/badges/921517b0-4cfa-4ba7-aa09-9862f1adfde2"><img src="https://images.credly.com/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png" width="36" align="absmiddle" alt="CCST Networking"></a>&nbsp; Cisco Certified Support Technician Networking (CCST)<br>
+<a href="https://www.credly.com/badges/1e192cab-ab9d-4177-8f14-ce24f8d9f6d2"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="36" align="absmiddle" alt="AZ-900"></a>&nbsp; Microsoft Certified: Azure Fundamentals (AZ-900)<br>
+<a href="https://www.credly.com/badges/ccc5590a-d5e8-472c-b5d0-533bf2706a17"><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="36" align="absmiddle" alt="AI-900"></a>&nbsp; Microsoft Certified: Azure AI Fundamentals (AI-900)<br>
+<a href="https://www.credly.com/badges/69563ae3-77a5-4a46-8343-b594f3f057c8"><img src="https://images.credly.com/images/cd82123f-6dc4-4181-badb-7ab1bc6707cd/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-02-no-year.png" width="36" align="absmiddle" alt="Instrutor Cisco Networking Academy"></a>&nbsp; Instrutor Cisco Networking Academy: 5 anos de serviço
 
 ## Formação
 
